@@ -1,6 +1,6 @@
 <script>
   import { onMount, onDestroy, createEventDispatcher } from "svelte";
-  import ResizeObserver from "resize-observer-polyfill";
+  import ResizeObserver from "./resize-observer-polyfill.js";
 
   export let elementResize;
 
