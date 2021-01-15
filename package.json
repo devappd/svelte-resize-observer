@@ -4,6 +4,9 @@
   "description": "Element resize observer to Svelte using @juggle/resize-observer",
   "repository": "https://github.com/andrelmlins/svelte-resize-observer",
   "author": "André Lins <andrelucas01@hotmail.com> (https://andrelmlins.github.io/)",
+  "contributors": [
+    "devappd <devappd@outlook.com>"
+  ],
   "svelte": "src/lib/ResizeObserver.svelte",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
